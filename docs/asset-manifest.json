@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed8c1aba.css",
+    "main.js": "/static/js/main.a00be97e.js",
+    "static/media/landing_img_cropped.png": "/static/media/landing_img_cropped.623e69ac00cdbf54c7c2.png",
+    "static/media/bracelet.png": "/static/media/bracelet.0d1ddd39d939ff8c0af8.png",
+    "static/media/earrings.png": "/static/media/earrings.1473201c58a5494d7697.png",
+    "static/media/necklace.png": "/static/media/necklace.0ba643e01bbebe4a0594.png",
+    "static/media/logo.png": "/static/media/logo.950b12bbb1eacf43c492.png",
+    "static/media/logo-white.png": "/static/media/logo-white.73d098420333bfe1f779.png",
+    "index.html": "/index.html",
+    "main.ed8c1aba.css.map": "/static/css/main.ed8c1aba.css.map",
+    "main.a00be97e.js.map": "/static/js/main.a00be97e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8c1aba.css",
+    "static/js/main.a00be97e.js"
+  ]
+}
